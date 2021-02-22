@@ -1,0 +1,23 @@
+{
+  "name": "kmi",
+  "version": "1.0.0",
+  "description": "impliment of umi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sword233/kmi.git"
+  },
+  "keywords": [
+    "kim",
+    "umi.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sword233/kmi/issues"
+  },
+  "homepage": "https://github.com/sword233/kmi#readme"
+}
